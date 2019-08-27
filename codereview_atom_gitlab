@@ -5,6 +5,7 @@
 </title>
 </header>
 <body>
-<p> Welcome to my page..1 <p>
+<p> Welcome to my page..1 </p>
+<p> Got this file into atom from gitlab through github desktop </P>
 </body>
 </html>
